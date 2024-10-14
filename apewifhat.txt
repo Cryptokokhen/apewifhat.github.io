@@ -1,0 +1,667 @@
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  
+    <title>APEWIFHAT - monkey is getting the bag</title>
+	<link rel="icon" href="imagens/cropped_image.png" type="image/x-icon">
+      
+  <!-- for SEO purposes-->
+
+      <meta name="msapplication-TileImage" content="https://drifftop.com/"> <!-- Windows 8 -->
+  <meta name="msapplication-TileColor" content="#ff6d40"> <!-- Windows 8 color -->
+  
+  <meta name="description" content="APEWIFHAT , The world's Best MemeCoin Community.">
+  <meta name="thumbnail" content="https://drifftop.com/">
+  <meta name="thumbnailUrl" content="https://drifftop.com/" itemprop="thumbnailUrl">
+  <meta name="theme-color" content="#ff6d40">
+  
+  <meta content="https://drifftop.com/" itemprop="url">
+  <link rel="canonical" href="https://drifftop.com/">
+  
+  <meta property="og:title" content="APEWIFHAT World's coolest Ape.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://drifftop.com/">
+      <meta property="og:image" content="https://drifftop.com/">
+  <meta property="og:description" content="World's Best Community Driven Coin">
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="APEWIFHAT">
+  <meta name="twitter:description" content="The World's Best Community  Driven MemeCoin.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  
+      
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Fredoka One:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  
+    <!-- Vendor CSS Files -->
+	<link rel="stylesheet" href="css/aos.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+
+
+<!-- checkar ainda-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  
+
+
+    <!-- Template Main CSS File -->
+	<link rel="stylesheet" href="css/style-6.css">
+	<link rel="stylesheet" href="css/custom-primary.css">
+	<link rel="stylesheet" href="css/custom-secondary-2.css">
+	<link rel="stylesheet" href="css/button-group-2.css">
+
+
+
+
+      
+      <!-- Google tag (gtag.js) -->
+      <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-21DV6BQHT9"></script>
+      <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+  
+          gtag('config', 'G-21DV6BQHT9');
+      </script>
+  
+      <style>
+          iframe{
+              max-width: 100% !important;
+          }
+      </style>
+  
+  <script id="webpushr-jssdk" async="" src="https://cdn.webpushr.com/app.min.js"></script></head>
+
+
+
+  
+  
+
+
+<body data-aos-easing="ease-in-out" data-aos-duration="1000" data-aos-delay="0">
+	
+	<!-- ======= Header ======= -->
+<header id="header" class="header fixed-top header-scrolled">
+
+
+  <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+	 
+
+<!-- link para o site -->
+
+    <a href="https://pepeheader/" class="logo d-flex align-items-center" id="passinfo">
+
+		<!-- icons do topo da pagina-->
+      <img src="imagens/cropped_image.png" alt="main new homeless pepe logo">
+
+	<!--<a href="#" class="mx-2"><i class="fab fa-tiktok"></i></a>-->
+  <a href="https://www.coingecko.com/en/coins/apewifhat" class="mx-2">
+    <img src="imagens/cgicon.png" alt="CoinGecko" style="width: 24px; height: 24px;">
+  </a>
+
+  <a href="https://coinmarketcap.com/currencies/apewifhat/" class="mx-2">
+	<img src="imagens/cmcicon.png" alt="CoinMarketCap" style="width: 24px; height: 24px;">
+  </a>
+
+  <a href="https://x.com/ApewifHatCoin" class="mx-2">
+	<img src="imagens/x-twitter.svg" alt="Twitter" style="width: 24px; height: 24px;">
+  </a>
+  <a href="https://t.me/ApeWifHatCoinX" class="mx-2">
+	<img src="imagens/telegram.svg" alt="Telegram" style="width: 24px; height: 24px;">
+  </a>
+  <a href="https://www.instagram.com/apewifhat?igsh=NTJ3MWo4YndwNjJu" class="mx-2">
+	<img src="imagens/transferir.jpg" alt="Instagram" style="width: 24px; height: 24px;">
+  </a>
+
+
+	
+						<!-- Letras da nav bar Inicial-->
+
+<img src="imagens/APEWIFHAT.png" alt="APE" width="200" style="margin-right: auto;">
+	<!-- texto que aparece ao dar hover no simbolo-->
+
+	
+
+	<!--
+	<style>
+		body {
+			background-image: url("imagens/Bananas.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+	</style>
+-->
+
+    <nav id="navbar" class="navbar">
+							<ul>
+					<li><a class="nav-link scrollto" href="#hero">Home</a></li>
+					<li><a class="nav-link scrollto active" href="#about">About Us</a></li>
+					<!-- <li><a class="nav-link scrollto" href="#counts"></a></li> -->
+
+<!-- para roadmap-->
+					<!--
+						
+						<li><a class="nav-link scrollto" href="#roadmap">Roadmap</a></li>
+					-->
+
+
+					
+					<!-- probelmas -->
+					<li><a class="nav-link" href="https://dexscreener.com/solana/7eXBRCTywm767E15gGQSoErLtQj7CsME5veUejV74P2L?embed=1&theme=dark" target="_blank">Chart</a></li>
+
+				</ul>
+			      <i class="bi bi-list mobile-nav-toggle"></i>
+    </nav>
+	
+	<!-- navbar -->
+
+  </div>
+
+
+</header><!-- End Header -->
+  
+
+<!-- parte de introduçao , links the social M, uma imagem,-->
+
+
+
+
+	<!-- ======= Hero Section ======= -->
+	<section id="hero" class="hero d-flex align-items-center" style="height: 100vh;">
+		<div class="container justify-content-center">
+		  <div class="row">
+			<div class="col-lg-6 d-flex flex-column justify-content-center">
+			  <img data-aos="fade-up" src="imagens/APEWIFHAT.png" class="main-logo aos-init aos-animate img-fluid" alt="">
+			  <h2 data-aos="fade-up" class="main-subtitle aos-init aos-animate">DEVS jeeted Community Driven Now</h2>
+			  <div data-aos="fade-up" data-aos-delay="600" class="aos-init aos-animate">
+				<div class="text-center text-lg-start mt-5">
+				  <div class="CA">
+					<h4>APEWIFHAT Contract Address</h4>
+					<div class="btn-group custom-group">
+					  <button class="btn-group__item btn-group__item">
+						KdF3kjqSHbWXFstBLA2dccDxuNBi4o3yZqtMhB7k5dZ
+					  </button>
+					</div>
+				  </div>
+				</div>
+			  </div>
+			</div>
+
+
+			<div class="col-lg-6 hero-img aos-init aos-animate d-flex flex-column justify-content-center" data-aos="zoom-out" data-aos-delay="200">
+				<div class="embed-responsive embed-responsive-16by9">
+				  <iframe class="embed-responsive-item" id="flooz" src="https://jup.ag/" title="Flooz Trade" frameborder="0" allow="clipboard-read; clipboard-write; web-share; accelerometer *; autoplay *; camera *; gyroscope *; payment *"></iframe>
+				</div>
+				<p class="text-center mt-2">Visit <a href="https://jup.ag/">jup.ag</a> and go Bananas </p>
+			  </div>
+
+		  </div>
+		</div>
+	</section>
+	  
+	 
+	 <style>
+		/* Custom styles */
+		/* Custom styles */
+.hero {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.main-logo {
+  max-width: 100%;
+  height: auto;
+}
+.embed-responsive {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+}
+.embed-responsive::before {
+  display: block;
+  content: '';
+}
+.embed-responsive-16by9::before {
+  padding-top: 56.25%; /* 16:9 aspect ratio */
+}
+.embed-responsive-item {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    height: auto; /* Adjust height for smaller screens */
+  }
+  .hero-img {
+    margin-top: 20px;
+  }
+  .embed-responsive {
+    height: auto; /* Ensure height adjusts automatically */
+  }
+  .embed-responsive-16by9::before {
+    padding-top: 56.25%; /* Maintain 16:9 aspect ratio */
+  }
+  .embed-responsive-item {
+    height: 100%; /* Ensure iframe takes full height */
+  }
+  .main-logo {
+    width: 100%;
+    height: auto;
+    margin-top: 20px; /* Add margin to prevent cutting off */
+  }
+}
+@media (max-width: 360px) { /* Common Samsung phone width */
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    height: auto; /* Adjust height for smaller screens */
+  }
+  .hero-img {
+    margin-top: 20px;
+  }
+  .embed-responsive {
+    height: auto; /* Ensure height adjusts automatically */
+  }
+  .embed-responsive-16by9::before {
+    padding-top: 56.25%; /* Maintain 16:9 aspect ratio */
+  }
+  .embed-responsive-item {
+    height: 100%; /* Ensure iframe takes full height */
+  }
+  .main-logo {
+    width: 100%;
+    height: auto;
+    margin-top: 20px; /* Add margin to prevent cutting off */
+  }
+}
+.text-center {
+  text-align: center;
+}
+.mt-2 {
+  margin-top: 0.5rem;
+}
+	 </style>
+	 
+	 
+	 
+	  <!-- End Hero -->
+
+
+<section>
+	<style>
+		#dexscreener-embed {
+			position: relative;
+			width: 80%; /* Adjust the width as needed */
+			margin: 0 auto; /* Center the element horizontally */
+			padding-bottom: 80%; /* Adjust the padding-bottom to decrease the height */
+		}
+
+		@media (min-width: 1400px) {
+			#dexscreener-embed {
+				padding-bottom: 40%; /* Adjust the padding-bottom for larger screens */
+			}
+		}
+
+		#dexscreener-embed iframe {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			border: 0;
+		}
+	</style>
+	<div id="dexscreener-embed">
+		<iframe src="https://dexscreener.com/solana/7eXBRCTywm767E15gGQSoErLtQj7CsME5veUejV74P2L?embed=1&theme=dark"></iframe>
+	</div>
+
+	
+</section>
+
+
+	<main id="main">
+		
+
+
+
+
+
+		<section id="about" class="about">
+
+			<div class="container aos-init aos-animate" data-aos="fade-up">
+				<div class="row gx-0">
+
+
+				<!-- Pepe debaixo da ponte, e porporçoes da img  -->
+				
+				<div class="col-lg-6 d-flex align-items-center aos-init ">
+					<img src="imagens/MacacoNaRegua.png" alt="Pepe under the bridge Image" class="myImage" id="myImage" style="max-width: 100%; height: auto;">
+				</div>
+
+						<!--  About me text -->
+
+
+				<div class="col-lg-6 d-flex flex-column justify-content-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+					<div class="content">
+						<h1 class="logo-text">About 
+							<span class="logo-text">$APEWIFHAT$ </span>
+						</h1>
+
+						<p>
+							APEWIFHAT was abandoned by its developers, but the community stepped in to keep it alive. Now, it's entirely driven by the holders, proving the strength and dedication of its supporters.
+						</p>
+
+					</div>
+				</div>
+
+				
+
+				</div>
+			</div>
+
+		</section><!-- End About Section -->
+
+
+
+
+
+
+
+
+		<!-- ======= Values Section ======= -->
+
+
+		<!-- Parte do tokenomics-->
+
+
+		<section id="counts" class="counts">
+
+			<div class="container aos-init aos-animate" data-aos="fade-up">
+
+				<header class="section-header">
+				<h2>APEWIFHAT</h2>
+
+				<p class="logo-text">Tokenomics</p>
+				</header>
+
+				<div class="row gy-4">
+
+
+				<div class="col-xl-6 col-lg-12">
+					<div class="count-box">
+					<i class="bi bi-server" style="color: #ee6c20;"></i>
+					<div>
+						<span class="supply">
+							99,991,486,547,508</span>
+						<p>Circulating Supply</p>
+					</div>
+					</div>
+				</div>
+				
+				<div class="col-xl-6 col-lg-12">
+					<div class="count-box">
+					<i class="bi bi-wallet2" style="color: #ee6c20;"></i>
+					<div>
+
+						<!-- market cap -->
+						<span>Over 400K</span>
+						<p>Market Cap</p>
+					</div>
+					</div>
+				</div>
+				<div class="col-xl-3 col-lg-12">
+					<div class="count-box">
+					<i class="bi bi-coin" style="color: #ffd91c;"></i>
+					<div>
+
+						<!-- symbol -->
+						<span>APEWIFHAT</span>
+						<p>Symbol</p>
+					</div>
+					</div>
+				</div>
+				<div class="col-xl-3 col-lg-12">
+					<div class="count-box">
+					<i class="bi bi-people-fill" style="color: #15be56;"></i>
+					<div>
+						<span>17000</span>
+						<p>Holders</p>
+					</div>
+					</div>
+				</div>
+
+				<div class="col-xl-3 col-lg-12">
+					<div class="count-box">
+					<i class="bi bi-newspaper" style="color: #ff1f4f;"></i>
+					<div>
+
+						<!-- renounced ownership -->
+						<span>Renounced</span>
+						<p>Ownership</p>
+					</div>
+					</div>
+				</div>
+				<div class="col-xl-3 col-lg-12">
+					<div class="count-box">
+					<i class="bi bi-lock" style="color: #125cfc;"></i>
+					<div>
+
+						<!-- locked liquidity -->
+						<span>Locked</span>
+						<p>Liquidity</p>
+					</div>
+					</div>
+				</div>
+
+				</div>
+				
+			</div>
+
+		</section>
+		
+		
+		
+		<!-- End Values Section -->
+
+
+	
+
+		
+		
+
+	</main><!-- End #main -->
+
+		
+
+	<!-- ======= Footer ======= -->
+<footer id="footer" class="footer">
+
+
+  <!-- TradingView Widget BEGIN -->
+  <div class="tradingview-widget-container" style="width: 100%; height: 78px;">
+  <iframe scrolling="no" allowtransparency="true" frameborder="0" src="https://www.tradingview-widget.com/embed-widget/ticker-tape/?locale=en#%7B%22symbols%22%3A%5B%7B%22description%22%3A%22CATS%22%2C%22proName%22%3A%22PANCAKESWAP%3ACATSWBNB_56C272.USD%22%7D%2C%7B%22description%22%3A%22ETH%22%2C%22proName%22%3A%22BINANCE%3AETHUSD%22%7D%2C%7B%22description%22%3A%22BTC%22%2C%22proName%22%3A%22BINANCE%3ABTCUSDT%22%7D%2C%7B%22description%22%3A%22OKB%22%2C%22proName%22%3A%22OKX%3AOKBUSDT%22%7D%2C%7B%22description%22%3A%22BNB%22%2C%22proName%22%3A%22BINANCE%3ABNBUSDT%22%7D%2C%7B%22description%22%3A%22SOL%22%2C%22proName%22%3A%22BINANCE%3ASOLUSDT%22%7D%2C%7B%22description%22%3A%22MATIC%22%2C%22proName%22%3A%22BINANCE%3AMATICUSDT%22%7D%5D%2C%22showSymbolLogo%22%3Afalse%2C%22isTransparent%22%3Afalse%2C%22displayMode%22%3A%22regular%22%2C%22colorTheme%22%3A%22light%22%2C%22width%22%3A%22100%25%22%2C%22height%22%3A78%2C%22utm_source%22%3A%22catcoin.io%22%2C%22utm_medium%22%3A%22widget_new%22%2C%22utm_campaign%22%3A%22ticker-tape%22%2C%22page-uri%22%3A%22catcoin.io%2F%22%7D" title="ticker tape TradingView widget" lang="en" style="user-select: none; box-sizing: border-box; display: block; height: 46px; width: 100%;"></iframe>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/?utm_source=.io&amp;utm_medium=widget_new&amp;utm_campaign=ticker-tape" rel="noopener nofollow" target="_blank"></a></div>
+  
+<style>
+	.tradingview-widget-copyright {
+		font-size: 13px !important;
+		line-height: 32px !important;
+		text-align: center !important;
+		vertical-align: middle !important;
+		/* @mixin sf-pro-display-font; */
+		font-family: -apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif !important;
+		color: #B2B5BE !important;
+	}
+
+	.tradingview-widget-copyright .blue-text {
+		color: #2962FF !important;
+	}
+
+	.tradingview-widget-copyright a {
+		text-decoration: none !important;
+		color: #B2B5BE !important;
+	}
+
+	.tradingview-widget-copyright a:visited {
+		color: #B2B5BE !important;
+	}
+
+	.tradingview-widget-copyright a:hover .blue-text {
+		color: #1E53E5 !important;
+	}
+
+	.tradingview-widget-copyright a:active .blue-text {
+		color: #1848CC !important;
+	}
+
+	.tradingview-widget-copyright a:visited .blue-text {
+		color: #2962FF !important;
+	}
+	</style></div>
+<!-- TradingView Widget END -->
+
+
+<div class="credits">
+	© Copyright <a href="#"><b>APEwifhat</b></a> All Rights Reserved
+</div>
+</footer>
+<!-- End Footer -->
+  
+	<div class="modal fade" id="langModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLabel">Choose Language</h5>
+					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+				</div>	  
+				<div class="modal-body">
+					<div class="row p-5">
+													<div class="col-sm-6 d-grid gap-2">
+								<a class="btn btn-lg btn-merch btn-lang mb-2" href="#">
+									<img src="" alt=""> 
+									<span>
+										&nbsp;English									</span>
+								</a>
+							</div>
+								
+					</div>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<!-- Vendor JS Files -->
+
+
+	<!-- Animaçoes e Imagem de WHY-->
+	
+
+<!-- Template Main JS File -->
+
+
+<script>
+	function load_content() {
+        // this function will load the Google homepage into the iframe
+        var iframe 	= document.getElementById("flooz");
+
+		
+     //iframe.src 	= "https://www.flooz.trade/embedded/0x2f0c6e147974bfbf7da557b88643d74c324053a2?network=bsc/" // here goes your url		
+        iframe.src 	= "https://jup.ag/" // here goes your url		
+	
+  };
+	window.onload = load_content;
+</script>
+<script>
+  // for (video of document.getElementsByTagName("video")) {
+  //      video.setAttribute("playsinline", "");
+  //      video.setAttribute("muted", "");
+  //      video.play();
+  // }
+	var playPromise = document.querySelector('video').play();
+	// In browsers that don’t yet support this functionality,
+	// playPromise won’t be defined.
+	if (playPromise !== undefined) {
+		playPromise.then(function() {
+			// Automatic playback started!
+		}).catch(function(error) {
+			// Automatic playback failed.
+			// Show a UI element to let the user manually start playback.
+		});
+	}
+
+</script>
+<script>
+
+
+
+</script>
+
+<script>
+  const buttons = document.querySelectorAll(".btn-group__item");
+  buttons.forEach(button => {
+    button.addEventListener("click",() => {
+      // Use the button's text content instead of a hardcoded string
+      copyStringToClipboard(button.textContent.trim());
+
+      button.classList.add("btn-group__item--active");
+      setTimeout(() => {
+        button.classList.remove("btn-group__item--active");
+      },600);
+    });
+  });
+
+
+
+  // para copiar os links dos chart quando clicar
+
+  function copyStringToClipboard(str) {
+    // Create new element
+    var el = document.createElement('textarea');
+    // Set value (string to be copied)
+    el.value = str;
+    // Set non-editable to avoid focus and move outside of view
+    el.setAttribute('readonly', '');
+    el.style = {position: 'absolute', left: '-9999px'};
+    document.body.appendChild(el);
+    // Select text inside element
+    el.select();
+    // Copy text to clipboard
+    document.execCommand('copy');
+    // Remove temporary element
+    document.body.removeChild(el);
+  }
+</script>
+
+<script>
+	var pageLink = window.location.href;
+	var pageTitle = String(document.title).replace(/\&/g, '%26');
+	
+		  
+	function tbs_click() { window.open(`https://twitter.com/intent/tweet?text=${pageTitle}&url=${pageLink}`,'sharer','toolbar=0,status=0,width=626,height=436');return false; }
+	
+	
+	function rbs_click() { window.open(`https://www.reddit.com/submit?url=${pageLink}`,'sharer','toolbar=0,status=0,width=626,height=436');return false; }
+	
+	
+	function tel_click() { window.open(`https://t.me/share/url?url=${pageLink}&text=${pageTitle}`,'sharer','toolbar=0,status=0,width=626,height=436');return false; }
+</script>
+
+</div></div></body>
